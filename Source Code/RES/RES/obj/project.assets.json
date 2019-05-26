@@ -12937,11 +12937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AnNgo\\Documents\\GitHub\\RES\\Source Code\\RES\\RES\\RES.csproj",
+      "projectUniqueName": "C:\\Users\\AnNgo\\Documents\\GitHub\\DoAn2\\Source Code\\RES\\RES\\RES.csproj",
       "projectName": "RES",
-      "projectPath": "C:\\Users\\AnNgo\\Documents\\GitHub\\RES\\Source Code\\RES\\RES\\RES.csproj",
+      "projectPath": "C:\\Users\\AnNgo\\Documents\\GitHub\\DoAn2\\Source Code\\RES\\RES\\RES.csproj",
       "packagesPath": "C:\\Users\\AnNgo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AnNgo\\Documents\\GitHub\\RES\\Source Code\\RES\\RES\\obj\\",
+      "outputPath": "C:\\Users\\AnNgo\\Documents\\GitHub\\DoAn2\\Source Code\\RES\\RES\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
