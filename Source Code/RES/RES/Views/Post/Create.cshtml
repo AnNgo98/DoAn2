@@ -183,6 +183,7 @@
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
     <script src="~/js/uploadmultifiles.js"></script>
     <script>
+        // ẩn detail nếu typeOfRealEstate != 1
         $('#typeOfRealEstate').change(function () {
             var item = $(this).val();
             if (item === "1") {
@@ -212,6 +213,8 @@
             }
 
         });
+
+        // get province from api
         $.ajax({
             url: "https://dc.tintoc.net/app/api-customer/public/provinces",
             method: 'GET',
@@ -228,6 +231,7 @@
             }
         });
 
+        // change district and ward from api when get province
         $('#province').change(function () {
             var item = $(this).find(':selected').data('id');
             $('#district').empty();
@@ -263,6 +267,7 @@
             });
         });
 
+        // change ward from api when get district
         $('#district').change(function () {
             var item = $(this).find(':selected').data('id');
             $('#ward').empty();
