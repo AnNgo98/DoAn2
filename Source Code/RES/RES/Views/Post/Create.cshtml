@@ -231,7 +231,7 @@
             }
         });
 
-        // change district and ward from api when get province
+        // change huyện and xã from api when get province
         $('#province').change(function () {
             var item = $(this).find(':selected').data('id');
             $('#district').empty();
@@ -267,7 +267,7 @@
             });
         });
 
-        // change ward from api when get district
+        // change xã from api when get huyện
         $('#district').change(function () {
             var item = $(this).find(':selected').data('id');
             $('#ward').empty();

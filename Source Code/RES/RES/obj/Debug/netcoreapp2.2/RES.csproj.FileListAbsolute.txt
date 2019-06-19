@@ -230,9 +230,7 @@ C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\Create.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
-C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\Manager.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\PostDetail.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -247,3 +245,5 @@ C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\RES.dll
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\RES.pdb
 C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\RES.csproj.CopyComplete
+C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\Manager.g.cshtml.cs
+C:\Users\AnNgo\Documents\GitHub\DoAn2\Source Code\RES\RES\obj\Debug\netcoreapp2.2\Razor\Views\Post\Create.g.cshtml.cs
